@@ -1,0 +1,9 @@
+//算法标记 
+#define SCAN      0
+#define SORT      1
+#define CRACK     2
+#define ART       3
+#define ART_CRACK 4
+//查询模式标记 
+#define RANDOM    0
+#difine seq_over_w 
